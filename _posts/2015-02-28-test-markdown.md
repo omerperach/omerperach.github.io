@@ -2,7 +2,7 @@
 layout: post
 title: My first post ever!!
 subtitle: The long non coding RNA 
-gh-repo: daattali/beautiful-jekyll
+gh-repo: 
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
